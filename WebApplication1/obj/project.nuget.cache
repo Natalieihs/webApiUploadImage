@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dQmAQmLisVT9YogfU6/QHnUnvQJNpi4uwjNe8kUnNqUnhwZEoODccIDnVG0Wvi5zuN32biXwLpnAysbkX7R3pQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\9527\\Desktop\\code\\webApiUploadImage\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\9527\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\9527\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\9527\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
